@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969796669393",
+    "project_id": "firestor-d3bee",
+    "storage_bucket": "firestor-d3bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969796669393:android:52a11891d1091f40bc9af0",
+        "android_client_info": {
+          "package_name": "at.com.firestor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1eQGud7oF-Rh813S8Hbxvrh-xMJ9_0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
